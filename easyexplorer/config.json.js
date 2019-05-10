@@ -1,9 +1,9 @@
 {
-"version":"1.0",
-"md5":"3321ba4e5e33822310cb1f77d2b43fc1",
+"version":"1.3",
+"md5":"21d85aae435f2daf4a9e386d90921eae",
 "home_url":"Module_easyexplorer.asp",
-"title":"EasyExplorer",
+"title":"易有云 - EasyExplorer",
 "description":"强大易用的全平台同步工具",
-"changelog":"修复开机启动脚本",
-"build_date":"2019-03-09_16:35:31"
+"changelog":"优化插件",
+"build_date":"2019-04-28_18:40:21"
 }
